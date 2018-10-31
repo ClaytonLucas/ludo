@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 public class GameFrame extends JFrame{
 
-	public final int LARG_DEFAULT = 700;
+	public final int LARG_DEFAULT = 900;
 	public final int ALT_DEFAULT = 700;
 	
 	public GameFrame() {
